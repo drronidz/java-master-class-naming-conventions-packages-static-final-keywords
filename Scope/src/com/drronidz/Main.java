@@ -7,12 +7,15 @@ package com.drronidz;/*
 
 public class Main {
     public static void main(String[] args) {
-        String privateVar = "this is private to main()";
+        String varFour = "this is private to main()";
 
         System.out.println("***********************************************************");
         ScopeCheck scopeInstance = new ScopeCheck();
-        System.out.println("scopeInstance privateVar is " + scopeInstance.getPrivateVar());
-        System.out.println(privateVar);
+        System.out.println("scopeInstance varOne is " + scopeInstance.getVarOne());
+        System.out.println(varFour);
+
+        System.out.println("***********************************************************");
+        scopeInstance.useInner();
 
         scopeInstance.timesTwo();
         System.out.println("***********************************************************");
