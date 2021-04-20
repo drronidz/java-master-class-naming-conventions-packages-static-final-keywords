@@ -9,6 +9,7 @@
       <module fileurl="file://$PROJECT_DIR$/Packages/Packages.iml" filepath="$PROJECT_DIR$/Packages/Packages.iml" />
       <module fileurl="file://$PROJECT_DIR$/Scope/Scope.iml" filepath="$PROJECT_DIR$/Scope/Scope.iml" />
       <module fileurl="file://$PROJECT_DIR$/ScopeChallenge/ScopeChallenge.iml" filepath="$PROJECT_DIR$/ScopeChallenge/ScopeChallenge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Static/Static.iml" filepath="$PROJECT_DIR$/Static/Static.iml" />
       <module fileurl="file://$PROJECT_DIR$/WinDemo/WinDemo.iml" filepath="$PROJECT_DIR$/WinDemo/WinDemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/java-master-class-naming-conventions-packages-static-final-keywords.iml" filepath="$PROJECT_DIR$/.idea/java-master-class-naming-conventions-packages-static-final-keywords.iml" />
     </modules>
