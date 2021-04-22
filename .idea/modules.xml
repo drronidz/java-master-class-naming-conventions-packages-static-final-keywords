@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/AccessModifiers/AccessModifiers.iml" filepath="$PROJECT_DIR$/AccessModifiers/AccessModifiers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Final/Final.iml" filepath="$PROJECT_DIR$/Final/Final.iml" />
       <module fileurl="file://$PROJECT_DIR$/GameTest/GameTest.iml" filepath="$PROJECT_DIR$/GameTest/GameTest.iml" />
       <module fileurl="file://$PROJECT_DIR$/PackageChallenge/PackageChallenge.iml" filepath="$PROJECT_DIR$/PackageChallenge/PackageChallenge.iml" />
       <module fileurl="file://$PROJECT_DIR$/PackageDemo/PackageDemo.iml" filepath="$PROJECT_DIR$/PackageDemo/PackageDemo.iml" />
